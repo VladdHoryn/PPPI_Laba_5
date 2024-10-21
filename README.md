@@ -1,7 +1,7 @@
 # PPPI_Laba_5
 Best Team try not kill each other
 <<<<<<< HEAD
-Attempt from Vlad to do some dirty thigs
+Attempt from Vlad to do some dirty thigs again
 =======
 
 hellow 
